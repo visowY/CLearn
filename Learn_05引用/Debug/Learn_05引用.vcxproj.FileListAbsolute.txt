@@ -1,2 +1,0 @@
-D:\C++\Learn_05引用\Debug\Learn_05引用.exe
-D:\C++\Learn_05引用\Debug\Learn_05引用.pdb

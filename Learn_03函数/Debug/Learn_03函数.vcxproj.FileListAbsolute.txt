@@ -1,2 +1,0 @@
-D:\C++\Learn_03函数\Debug\Learn_03函数.exe
-D:\C++\Learn_03函数\Debug\Learn_03函数.pdb

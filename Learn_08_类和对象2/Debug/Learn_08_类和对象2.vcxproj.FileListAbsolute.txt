@@ -1,2 +1,0 @@
-D:\C++\Learn_08_类和对象2\Debug\Learn_08_类和对象2.exe
-D:\C++\Learn_08_类和对象2\Debug\Learn_08_类和对象2.pdb
