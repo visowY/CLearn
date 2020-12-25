@@ -1,0 +1,2 @@
+D:\GitHub\CLearn\Learn_01\Debug\Learn_01.exe
+D:\GitHub\CLearn\Learn_01\Debug\Learn_01.pdb

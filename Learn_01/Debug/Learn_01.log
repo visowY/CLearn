@@ -1,0 +1,3 @@
+﻿  Learn_01.cpp
+D:\GitHub\CLearn\Learn_01\Learn_01.cpp(9,9): warning C4101: “score”: 未引用的局部变量
+  Learn_01.vcxproj -> D:\GitHub\CLearn\Learn_01\Debug\Learn_01.exe
